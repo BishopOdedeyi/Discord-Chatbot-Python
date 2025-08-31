@@ -68,7 +68,7 @@ A big thank you to the `ollama` developers for their innovative language modelin
 
 ## Contact
 
-Feel free to reach out with any questions or suggestions through martin.weasel895@email.com.
+Feel free to reach out with any questions or suggestions through odedeibishop@gmail.com.
 
 **Additional Tips:**
 
