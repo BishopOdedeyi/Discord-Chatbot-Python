@@ -2,10 +2,10 @@
 
 ##  Enchant your Discord server with engaging conversations!
 
-**Martin-Weasel**  ‍  (Author)
+**Bishop Odedeyi**  ‍  (Author)
 
 This user-friendly Python project seamlessly integrates the power of `ollama`'s creative language models with your Discord server, providing an interactive and informative chatbot experience for your community.
-https://github.com/Martin-Weasel/Ollama-Discord-Chatbot/blob/main/screenshot1.webp
+
 ## Screenshots
 !["Screenshot1"](screenshot1.webp)
 !["Screenshot2"](screenshot2.webp)
